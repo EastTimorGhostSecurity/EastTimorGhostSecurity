@@ -12,10 +12,7 @@
 
 <table>
 <tr>
-<td>
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd252ano5bzQ0ZmZ0b3IxY3lxZXZ2OXZhdzFzZWd4Y3Y5cjZ1eTI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sDxVzsDgLo3rLQzVlc/giphy.gif" />
-</td>
-<td>
+<td align="left">
 
 ✨ **Creating bugs since ...**
 
@@ -25,6 +22,9 @@
 
 🎲 **Fun fact:** ...
 
+</td>
+<td align="right">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd252ano5bzQ0ZmZ0b3IxY3lxZXZ2OXZhdzFzZWd4Y3Y5cjZ1eTI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sDxVzsDgLo3rLQzVlc/giphy.gif" />
 </td>
 </tr>
 </table>
